@@ -9,6 +9,7 @@ int main() {
   char estado[50];
 
   // Área para entrada de dados
+  printf("Digite o Estado de 'A' a 'H': );
   scanf("%s", &estado);
 
   // Área para exibição dos dados da cidade
